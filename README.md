@@ -35,6 +35,12 @@
 
 * MongoDB
 
+### Familiar With
+- Kotlin
+- Basic Machine Learning
+- FastAPI
+- mySQL
+
 ### Tools
 
 * Git
