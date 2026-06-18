@@ -40,6 +40,8 @@
 - Basic Machine Learning
 - FastAPI
 - mySQL
+### Current Learning
+- Agentic AI
 
 ### Tools
 
