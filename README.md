@@ -50,16 +50,57 @@
 * Postman
 
 ---
+## 🚀 Featured Projects
 
-## Featured Projects
+### 📈 Zerodha Clone
+> Full-stack stock trading platform inspired by Zerodha.
 
-### Zerodha Clone
+**✨ Highlights**
+- Portfolio & Holdings Management
+- Buy Orders & Watchlists
+- Interactive Dashboard Charts
+- JWT Authentication
 
-Full-stack stock trading platform built using the MERN stack featuring authentication, portfolio management, watchlists, holdings management, order workflows, and portfolio visualizations.
+**🛠️ Tech:** React • Node.js • Express • MongoDB • Chart.js
 
-### LinkedIn Clone
+**🔗 Repositories**
+- Landing Page
+- Dashboard
+- Backend
 
-Professional networking platform built using Next.js and MERN stack featuring connection management, social feeds, commenting, resume generation, and Twitter sharing.
+---
+
+### 💼 LinkedIn Clone
+> Professional networking platform inspired by LinkedIn.
+
+**✨ Highlights**
+- Professional Profiles
+- Connections & Networking
+- Social Feed & Comments
+- Resume Builder
+
+**🛠️ Tech:** Next.js • Node.js • MongoDB • JWT • PDFKit
+
+**🔗 Repositories**
+- Frontend
+- Backend
+
+---
+
+### 💙 Donation App
+> Mobile donation application with secure online payments.
+
+**✨ Highlights**
+- Firebase Authentication
+- Razorpay Payment Gateway
+- Redux Toolkit
+- Secure Backend Verification
+
+**🛠️ Tech:** React Native • Firebase • Razorpay • Express.js
+
+**🔗 Repositories**
+- Frontend
+- Backend
 
 
 
