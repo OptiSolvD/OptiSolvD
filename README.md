@@ -18,7 +18,7 @@
 * Python
 
 ### Frontend
-
+* React Native
 * React.js
 * Next.js
 * HTML
