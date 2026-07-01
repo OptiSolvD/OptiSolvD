@@ -42,7 +42,60 @@
 - mySQL
 ### Current Learning
 - Agentic AI
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📈 Zerodha Clone
+
+A full-stack trading platform inspired by Zerodha with portfolio management, watchlists, holdings, orders, and interactive charts.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Chart.js`
+
+🔗 **Repositories**
+- [Landing Page](https://github.com/OptiSolvD/zerodha-clone-landing-)
+- [Dashboard](https://github.com/OptiSolvD/zerodha-clone-dashboard-)
+- [Backend API](https://github.com/OptiSolvD/zerodha-clone-backend-)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💼 LinkedIn Clone
+
+A professional networking platform featuring authentication, connections, social feeds, comments, and AI-ready resume generation.
+
+**Tech Stack**
+
+`Next.js` `React` `Node.js` `Express` `MongoDB` `JWT`
+
+🔗 **Repositories**
+- [Frontend](https://github.com/OptiSolvD/apna-circle-frontend)
+- [Backend API](https://github.com/OptiSolvD/apna-circle)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💙 Donation App
+
+A React Native donation app integrating Firebase Authentication and Razorpay with secure backend payment verification.
+
+**Tech Stack**
+
+`React Native` `Firebase` `Redux Toolkit` `Razorpay` `Node.js`
+
+🔗 **Repositories**
+- [Frontend](https://github.com/OptiSolvD/DonationApp)
+- [Backend API](https://github.com/OptiSolvD/razorpayServer)
+
+</td>
+</tr>
+</table>
 ### Tools
 
 * Git
@@ -50,59 +103,6 @@
 * Postman
 
 ---
-## 🚀 Featured Projects
-
-### 📈 Zerodha Clone
-> Full-stack stock trading platform inspired by Zerodha.
-
-**✨ Highlights**
-- Portfolio & Holdings Management
-- Buy Orders & Watchlists
-- Interactive Dashboard Charts
-- JWT Authentication
-
-**🛠️ Tech:** React • Node.js • Express • MongoDB • Chart.js
-
-**🔗 Repositories**
-- Landing Page
-- Dashboard
-- Backend
-
----
-
-### 💼 LinkedIn Clone
-> Professional networking platform inspired by LinkedIn.
-
-**✨ Highlights**
-- Professional Profiles
-- Connections & Networking
-- Social Feed & Comments
-- Resume Builder
-
-**🛠️ Tech:** Next.js • Node.js • MongoDB • JWT • PDFKit
-
-**🔗 Repositories**
-- Frontend
-- Backend
-
----
-
-### 💙 Donation App
-> Mobile donation application with secure online payments.
-
-**✨ Highlights**
-- Firebase Authentication
-- Razorpay Payment Gateway
-- Redux Toolkit
-- Secure Backend Verification
-
-**🛠️ Tech:** React Native • Firebase • Razorpay • Express.js
-
-**🔗 Repositories**
-- Frontend
-- Backend
-
-
 
 ## Connect With Me
 
