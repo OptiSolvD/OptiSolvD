@@ -4,6 +4,7 @@
 
 * Computer Science Student
 * Full-Stack Developer specializing in MERN Stack and Next.js
+* Cross platform pp development using React Native
 * Strong foundation in Data Structures and Algorithms using C++
 * Interested in AI Agents  and  System Design
 
