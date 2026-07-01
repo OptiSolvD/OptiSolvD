@@ -90,7 +90,7 @@ A React Native donation app integrating Firebase Authentication and Razorpay wit
 `React Native` `Firebase` `Redux Toolkit` `Razorpay` `Node.js`
 
 🔗 **Repositories**
-- [Frontend](https://github.com/OptiSolvD/DonationApp)
+- [Frontend](https://github.com/OptiSolvD/Donation-App.git)
 - [Backend API](https://github.com/OptiSolvD/razorpayServer)
 
 </td>
