@@ -68,7 +68,7 @@ A full-stack trading platform inspired by Zerodha with portfolio management, wat
 
 ### 💼 LinkedIn Clone
 
-A professional networking platform featuring authentication, connections, social feeds, comments, and AI-ready resume generation.
+A professional networking platform featuring authentication, connections, social feeds, comments, and  resume generation.
 
 **Tech Stack**
 
