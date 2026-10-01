@@ -76,6 +76,7 @@ I'm a Computer Science undergraduate at **IIT Gandhinagar** who enjoys turning i
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX_Ingress-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **🤖 AI**<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -198,6 +199,23 @@ Cross-platform React Native donation app with Firebase Authentication, Razorpay 
 - IPv4 / IPv6, IP addressing, DHCP
 - Default gateways, routing, local networks
 - Network interfaces, ports and application connectivity
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🚦 Ingress & Traffic Routing (NGINX Ingress Controller)
+- Services are **not exposed directly via their IP address** — external traffic enters the cluster through an **Ingress**, handled by the default **NGINX Ingress Controller**
+- The Ingress routes requests (by host / path rules) to the correct internal **Service**
+- On a cloud provider, a managed **Load Balancer** sits in front and forwards traffic to the Ingress Controller
+- The Service then load-balances requests across the matching **Pods** on their container port
+
+<div align="center">
+
+`Client` → `Cloud Load Balancer` → `NGINX Ingress Controller` → `Service` → `Pod (container port)`
+
+</div>
 
 </td>
 </tr>
