@@ -99,7 +99,7 @@ I'm a Computer Science undergraduate at **IIT Gandhinagar** who enjoys turning i
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum_Smart_Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js_%C2%B7_MetaMask-2535A0?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-0A9396?style=for-the-badge&logo=openai&logoColor=white)
+
 
 </div>
 
