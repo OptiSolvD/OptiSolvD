@@ -158,6 +158,22 @@ Cross-platform React Native donation app with Firebase Authentication, Razorpay 
 
 </td>
 </tr>
+<tr>
+<td colspan="3" valign="top">
+
+### ⛓️ ChainShare — Decentralized Image Sharing dApp
+
+Image-sharing dApp where images are pinned to **IPFS** through Pinata and only the resulting IPFS URL is stored in a **Solidity** smart contract. Owners can grant, list and revoke other wallets' access to their images, and every transaction is reviewed and signed in the user's own **MetaMask** wallet. Runs on a local **Hardhat** network.
+
+**Tech Stack**
+
+`Solidity` `Hardhat` `React (Vite)` `ethers.js` `MetaMask` `IPFS / Pinata`
+
+🔗 **Repository**
+- [ChainShare](https://github.com/OptiSolvD/ChainShare-)
+
+</td>
+</tr>
 </table>
 
 <br/>
