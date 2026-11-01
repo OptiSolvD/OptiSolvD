@@ -30,7 +30,7 @@ I'm a Computer Science undergraduate at **IIT Gandhinagar** who enjoys turning i
 | ☁️ **DevOps** | Docker · GitHub Actions · AWS EC2 · Kubernetes (Minikube) |
 | 🧮 **Fundamentals** | Data Structures & Algorithms in C++ |
 | 🤖 **AI** | AI Agents, RAG, LangChain, LangGraph |
-| 🏗️ **Interests** | AI Agents & System Design |
+| 🏗️ **Interests** | Web3  & System Design |
 
 <div align="center">
 
